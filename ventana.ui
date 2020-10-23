@@ -53,8 +53,8 @@
    <widget class="QLabel" name="lblValido">
     <property name="geometry">
      <rect>
-      <x>450</x>
-      <y>130</y>
+      <x>310</x>
+      <y>150</y>
       <width>47</width>
       <height>21</height>
      </rect>

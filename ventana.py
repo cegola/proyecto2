@@ -27,7 +27,7 @@ class Ui_ventanaPrincipal(object):
         self.btnSalir.setGeometry(QtCore.QRect(410, 330, 75, 23))
         self.btnSalir.setObjectName("btnSalir")
         self.lblValido = QtWidgets.QLabel(self.centralwidget)
-        self.lblValido.setGeometry(QtCore.QRect(450, 130, 47, 21))
+        self.lblValido.setGeometry(QtCore.QRect(310, 150, 47, 21))
         font = QtGui.QFont()
         font.setFamily("Forte")
         font.setPointSize(14)
